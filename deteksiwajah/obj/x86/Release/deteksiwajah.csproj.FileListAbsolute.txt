@@ -1,0 +1,14 @@
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\obj\x86\Release\deteksiwajah.Form1.resources
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\obj\x86\Release\deteksiwajah.Properties.Resources.resources
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\obj\x86\Release\deteksiwajah.csproj.GenerateResource.Cache
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\deteksiwajah.exe
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\deteksiwajah.pdb
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\Emgu.CV.dll
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\Emgu.CV.UI.dll
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\Emgu.Util.dll
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\ZedGraph.dll
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\Emgu.CV.xml
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\Emgu.CV.UI.xml
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\bin\Release\Emgu.Util.xml
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\obj\x86\Release\deteksiwajah.exe
+C:\Users\Exca\documents\visual studio 2010\Projects\deteksiwajah\deteksiwajah\obj\x86\Release\deteksiwajah.pdb
